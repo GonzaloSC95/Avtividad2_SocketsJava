@@ -5,9 +5,12 @@ Se pide hacer un programa cliente-servidor con sockets, dicho programa consistir
 Los libros tendrán un ISBN, un título, un autor y un precio. Se encontrarán alojados en el servidor. Dicho servidor cuando arranque tendrá 5 libros preestablecidos con todos los datos rellenos. Los libros se guardarán en memoria en cualquier tipo de estructura de datos (como puede ser un lista). Se valorará que el servidor esté preparado para que interactúen con él varios clientes.
 
 La aplicación cliente mostrará un menú como el que sigue:
-1.Consultar libro por ISBN
-2.Consultar libro por titulo
-3.Salir de la aplicación
+
+1.Consultar libro por ISBN.
+
+2.Consultar libro por titulo.
+
+3.Salir de la aplicación.
 
 La aplicación se ejecutará hasta que el cliente decida pulsar la opción de “salir de la aplicación”.
 
